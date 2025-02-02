@@ -1,26 +1,26 @@
-# [Project Name] 🎯
+# [Emergency alert system] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Technovators]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Akshaya Vinod S] - [UKFCET PARIPPALLY]
+- Member 2: [Krishna S J] - [UKFCET PARIPPALLY]
+- Member 3: [Nihmath A] - [UKFCET PARIPPALLY]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our project gives an alert message during an emergency situation ]
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Whenever there is an emergency situation ,when we press the button it will directly inform the related authorities to help us]
 
 ## Technical Details
 ### Technologies/Components Used
